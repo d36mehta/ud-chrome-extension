@@ -1,5 +1,4 @@
-# ud-chrome-extension
-Urban Dictionary Chrome extension.
+# Urban Dictionary Chrome extension
 
 Simple Chrome extension allows you to select text, right click, select "Discover *word or phrase* on Urban Dictionary" from the context menu, and then be redirected to that Urban Dictionary page for the word or phrase.
 
